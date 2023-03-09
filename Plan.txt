@@ -1,0 +1,24 @@
+- Start with a user story (the user describing the app)
+    As a [type of user] i want to do [an action] so that i [type of benefit]
+
+    As a user i want to map my running workouts with location, time, speed and steps per minute so i
+      can keep a log of my runs and cycling
+
+    As a user i want to see all my workouts at a glance, and see where i work out the most, and i want to
+      keep using the app over time
+
+- Based on this you can plan features
+    A map where user can click on the map to set workouts 
+
+    Geolocation to display map at current location
+
+    Form to imput distance, time, pace, steps/minute, elevation gain
+
+    Display all workouts in list
+
+    Display all workouts on map
+
+    Workouts should persist over time (local-storage)
+
+- Proceed to flow chart (top->down)
+    

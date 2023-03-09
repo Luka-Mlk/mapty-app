@@ -1,0 +1,11 @@
+1. Abstraction is hiding what the user doesnt need
+  (all details of phone)
+
+2. Encapsulation keeps properties and methods of classes private
+  (prevents external code from manipulating private params)
+
+3. Inheritance (instance of object thats has more privileges)
+  (an admin is essentialy an inherited user with more privileges)
+
+4. Polymorphism a child class cn overwrite a method inherited from a parent class
+  (an admin would need 2 factor auth, we just overwrite the login from the user)
